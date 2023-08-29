@@ -1,0 +1,39 @@
+    body {
+        background-color: #b1bbff;
+        font-family: 'Poppins', sans-serif;
+    }
+
+    table {
+        border: 1px solid black;
+        margin-left: 10vw;
+        margin-top: 15vh;
+        position: absolute;
+        background-color: white;
+    }
+
+    input[type="button"] {
+        width: 100%;
+        padding: 20px 40px;
+        background-color: #717FE0;
+        color: white;
+        font-size: 24px;
+        font-weight: bold;
+        border: none;
+
+    }
+
+    input[type="text"] {
+        padding: 20px 30px;
+        font-size: 24px;
+        font-weight: bold;
+        border: none;
+        border-radius: 5px;
+        border: 2px solid black;
+    }
+
+    .image1 {
+        width: 690px;
+        height: 390px;
+        margin-left: 48vw;
+        margin-top: 15vh;
+    }
